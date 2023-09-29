@@ -12,7 +12,7 @@ const {Sequelize} = require('sequelize')
 //         port: process.env.DB_PORT
 //     }
 // )
-module.exports = new Sequelize(process.env.POSTGRES_URL_NON_POOLING, {
+module.exports = new Sequelize(process.env.POSTGRES_URL_NON_POOLING+'?ssl=true', {
     dialectModule: pg
 })
 
