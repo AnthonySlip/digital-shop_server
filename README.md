@@ -1,6 +1,6 @@
 # digital-shop_server
 
-Это небольшой backend для для web-приложения DigitalShop (https://github.com/AnthonySlip/aichat-server)!
+Это небольшой backend для для web-приложения DigitalShop (https://github.com/AnthonySlip/digital-shop)!
 Здесь я реализовал бэк nodejs на фреймворке express!
 У меня получилось реализовать небольшой api - деплой лежит на Vercel
 Здесь я использова postrgresql в качестве БД, а также sequelize в качетве ORM!
@@ -20,7 +20,7 @@
 
 #digital-shop_server
 
-This is a small backend for the DigitalShop(https://github.com/AnthonySlip/aichat-server) web application!
+This is a small backend for the DigitalShop (https://github.com/AnthonySlip/digital-shop) web application!
 Here I have implemented the nodejs backend using the express framework!
 I was able to implement a small api - the deployment is on Vercel
 Here I used postrgresql as a database, and also sequelize as an ORM!
